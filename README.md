@@ -4,3 +4,8 @@ Quick note: This eliminates the need for a BLE bridge.  Run huep.py to create a 
 
 # getting things going
 import lightinterface into your code and then call sender(a,b,c,d) as you please. async is handled on the other side.
+
+
+----
+
+# * This library has been rewritten with proper async and generally depreciated by an extension of [oslo](https://github.com/atomdog/oslo) 
